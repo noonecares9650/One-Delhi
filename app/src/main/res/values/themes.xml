@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.OneDelhi" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#A51C30</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>
